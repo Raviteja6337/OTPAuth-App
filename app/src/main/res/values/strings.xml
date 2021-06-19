@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OTPAuth</string>
+    <string name="tab_text_1">Contacts</string>
+    <string name="tab_text_2">OTP Details</string>
+    <string name="otp_sent">OTP Sent: </string>
+    <string name="otp_time">OTP Sent Time: </string>
+    <string name="otp_mob">OTP Sent MobileNo: </string>
+    <string name="proceed_txt"> Proceed </string>
+    <string name="submit_btn"> Submit </string>
+    <string name="time_txt"> Time remaining: </string>
+    <string name="done_txt"> Done! </string>
+    <string name="otp_to_send">OTP To Send : </string>
+    <string name="enter_msg">Enter the message here: </string>
+    <string name="no_data">NO DATA AVAILABLE</string>
+</resources>
